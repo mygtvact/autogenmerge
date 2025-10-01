@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv>
+ <channel id="Zee Business.in">
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-business-in.png" />
+    <display-name>Zee Business</display-name>
+  </channel>
   <channel id="ATN - Set Max.ca">
     <display-name>Set Max Canada</display-name>
     <icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-max-in.png"/>
+  </channel>
+  <channel id="andFlix HD.in">
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/3/30/%26flix_%282025%29.svg" />
+    <display-name>andFlix HD</display-name>
   </channel>
   <channel id="B4U Movies North America.ca">
     <display-name>B4U Movies Canada</display-name>
@@ -71,7 +79,7 @@
   </channel>
   <channel id="Colors Cineplex Bollywood.in">
     <display-name>Colors Cineplex Bollywood</display-name>
-    <icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/india/colors-cineplex-bollywood-in.png"/>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/colors-cineplex-bollywood-in.png"/>
   </channel>
   <channel id="Colors Cineplex HD.in">
     <display-name>Colors Cineplex</display-name>
