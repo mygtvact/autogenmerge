@@ -33,18 +33,14 @@ jobs:
        
       - name: download epg xml
         run: |
-          FULL_FILE_PATH="https://www.open-epg.com/generate/"${{ secrets.XML_FILE_NAME }}.xml"
-          echo FULL_PATH
-          curl -O -L $FULL_FILE_PATH
+          curl -O -L https://www.open-epg.com/generate/udmVWa6NDz.xml
       
       - name: Run a one-line script
         run: ls
 
       - name: Run a one-line script
-        run: |
-          FILE_NAME="${{ secrets.XML_FILE_NAME }}.xml"
-          echo $FILE_NAME
-          tv_merge -i $FILE_NAME -m logosfix-epg.xml -o merged-openepg.xml
+        run: |          
+          tv_merge -i udmVWa6NDz.xml -m logosfix-epg.xml -o merged-openepg.xml
 
         
       
