@@ -38,7 +38,7 @@ jobs:
           curl -O -L https://www.open-epg.com/generate/udmVWa6NDz.xml
       
       - name: Run a one-line script
-        run: ls
+        run: sudo apt install xmltv
 
       - name: Run a one-line script
         run: |          
