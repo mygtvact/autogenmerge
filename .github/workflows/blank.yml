@@ -27,6 +27,9 @@ jobs:
       - uses: tecolicom/actions-use-apt-tools@v1
         with:
           tools: xmltv
+
+      - name: download epg xml
+        run: curl -O -L https://www.open-epg.com/generate/udmVWa6NDz.xml
       
       - name: Run a one-line script
         run: ls
