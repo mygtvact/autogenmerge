@@ -2,7 +2,7 @@
 <tv>
   <channel id="ATN - Set Max.ca">
     <display-name>Set Max Canada</display-name>
-    <icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-max-in.pn"/>
+    <icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-max-in.png"/>
   </channel>
   <channel id="B4U Movies North America.ca">
     <display-name>B4U Movies Canada</display-name>
@@ -44,11 +44,11 @@
   <channel id="News18 Punjab.in"><display-name>News18 Punjab</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/india/news-18-punjab-haryana-in.png"/></channel>
   <channel id="PTC Punjabi Gold.in"><display-name>PTC Punjabi Gold</display-name><icon src="https://images.open-epg.com/22045.png"/></channel>
   <channel id="PTC Punjabi.in"><display-name>PTC Punjabi</display-name><icon src="https://images.open-epg.com/22046.png"/></channel>
-  <channel id="Zee Delhi NCR Haryana.in"><display-name>Zee Delhi NCR Haryana</display-name><icon src="https://images.open-epg.com/22221.png"/></channel>
-  <channel id="Zee Punjab Haryana Himachal Pradesh.in"><display-name>Zee Punjab Haryana Himachal</display-name><icon src="https://images.open-epg.com/22229.png"/></channel>
-  <channel id="Zee Punjabi.in"><display-name>Zee Punjabi</display-name><icon src="https://images.open-epg.com/22230.png"/></channel>
-  <channel id="NDTV-Good-Times.in"><display-name>NDTV Good Times</display-name><icon src="https://images.open-epg.com/3971115.png"/></channel>
-  <channel id="Republic-Bharat.in"><display-name>Republic Bharat</display-name><icon src="https://images.open-epg.com/3971131.png"/></channel>
+  <channel id="Zee Delhi NCR Haryana.in"><display-name>Zee Delhi NCR Haryana</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/india/zee-delhi-ncr-haryana-in.png"/></channel>
+  <channel id="Zee Punjab Haryana Himachal Pradesh.in"><display-name>Zee Punjab Haryana Himachal</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/india/zee-punjab-haryana-himachal-in.png"/></channel>
+  <channel id="Zee Punjabi.in"><display-name>Zee Punjabi</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/india/zee-punjabi-in.png"/></channel>
+  <channel id="NDTV-Good-Times.in"><display-name>NDTV Good Times</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/india/goodtimes-in.png"/></channel>
+  <channel id="Republic-Bharat.in"><display-name>Republic Bharat</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/india/republic-bharat-tv-in.png"/></channel>
   <channel id="andpictures HD.in">
     <display-name>and pictures</display-name>
     <icon src="https://github.com/mygtvact/autogenmerge/blob/main/logos/and_Pictures.svg"/>
@@ -175,4 +175,5 @@
   </channel>
   <programme start="20250930150000 +0000" stop="20250930153000 +0000" channel="dummy_entry">
   </programme>
+
 </tv>
