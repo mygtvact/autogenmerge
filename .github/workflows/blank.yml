@@ -38,6 +38,6 @@ jobs:
         run: ls
 
       - name: Run a one-line script
-        run: xmltv
+        run: tv_merge -i udmVWa6NDz.xml -m logosfix-epg.xml -o merged-openepg.xml
 
       
