@@ -50,7 +50,7 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           release_name: test
           file: merged-openepg.xml
-          asset_name: logofixed
+          asset_name: logofixed.xml
           tag: test
           overwrite: true
           body: "test release"
