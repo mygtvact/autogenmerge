@@ -4,13 +4,21 @@
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gO83ivZf.png" />
     <display-name>Zee Business</display-name>
   </channel>
+ <channel id="Zee News.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/tvRtvi1Y.png" />
+    <display-name>Zee News.in</display-name>
+  </channel>
   <channel id="ATN - Set Max.ca">
-    <display-name>Set Max Canada</display-name>
+    <display-name>Sony Max Canada</display-name>
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UBYYWK17.png"/>
+  </channel>
+ <channel id="andPrive HD.in">
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/and-prive.png" />
+    <display-name>and Prive</display-name>
   </channel>
   <channel id="andFlix HD.in">
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jcYmyEPo.png" />
-    <display-name>andFlix HD</display-name>
+    <display-name>and Flix HD</display-name>
   </channel>
   <channel id="B4U Movies North America.ca">
     <display-name>B4U Movies Canada</display-name>
@@ -42,24 +50,88 @@
   </channel>
   <channel id="SONY MAX HD.uk">
     <display-name>Sony Max UK</display-name>
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UBYYWK17.png"/>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-max-in.png"/>
   </channel>
   <channel id="SONY SAB.uk">
     <display-name>Sony Sab</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-sab-in.png"/>
   </channel>
-  <channel id="DD Punjabi.in"><display-name>DD Punjabi</display-name><icon src="https://static.wikia.nocookie.net/logopedia/images/3/3b/Ddpunjabi.png"/></channel>
+  <channel id="DD Punjabi.in">
+   <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/71lLHli7.png" />
+   <icon src="https://static.wikia.nocookie.net/logopedia/images/3/3b/Ddpunjabi.png"/>
+  </channel>
   <channel id="News18 Punjab.in"><display-name>News18 Punjab</display-name><icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/news-18-punjab-haryana-in.png"/></channel>
-  <channel id="PTC Punjabi Gold.in"><display-name>PTC Punjabi Gold</display-name><icon src="https://images.open-epg.com/22045.png"/></channel>
-  <channel id="PTC Punjabi.in"><display-name>PTC Punjabi</display-name><icon src="https://images.open-epg.com/22046.png"/></channel>
-  <channel id="Zee Delhi NCR Haryana.in"><display-name>Zee Delhi NCR Haryana</display-name><icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-delhi-ncr-haryana-in.png"/></channel>
-  <channel id="Zee Punjab Haryana Himachal Pradesh.in"><display-name>Zee Punjab Haryana Himachal</display-name><icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-punjab-haryana-himachal-in.png"/></channel>
-  <channel id="Zee Punjabi.in"><display-name>Zee Punjabi</display-name><icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-punjabi-in.png"/></channel>
-  <channel id="NDTV-Good-Times.in"><display-name>NDTV Good Times</display-name><icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/goodtimes-in.png"/></channel>
-  <channel id="Republic-Bharat.in"><display-name>Republic Bharat</display-name><icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/republic-bharat-tv-in.png"/></channel>
+  <channel id="PTC Punjabi Gold.in">
+   <display-name>PTC Punjabi Gold</display-name>
+   <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/eomzdxpW.png" />
+  </channel>
+  <channel id="CNN News18..in">
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/cnn-news-18-in.png" />
+    <display-name>CNN News18</display-name>
+  </channel>
+  <channel id="NDTV Profit Prime.in">
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/ndtv-profit-in.png" />
+    <display-name>NDTV Profit Prime</display-name>
+  </channel>
+  <channel id="NDTV India.in">
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/ndtv-india-in.png" />
+    <display-name>NDTV India</display-name>
+  </channel>
+ <channel id="Zee Anmol Cinema.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/oEPKfHOX.png" />
+    <display-name>Zee Anmol Cinema</display-name>
+  </channel>
+  <channel id="PTC Punjabi.in">
+   <display-name>PTC Punjabi</display-name>
+   <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yXZiQpMO.png" />
+  </channel>
+  <channel id="Zee Delhi NCR Haryana.in">
+   <display-name>Zee Delhi NCR Haryana</display-name>
+   <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-delhi-ncr-haryana-in.png"/>
+  </channel>
+  <channel id="Zee Punjab Haryana Himachal Pradesh.in">
+   <display-name>Zee Punjab Haryana Himachal</display-name>
+   <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-punjab-haryana-himachal-in.png"/>
+  </channel>
+  <channel id="Zee Punjabi.in">
+   <display-name>Zee Punjabi</display-name>
+   <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-punjabi-in.png"/>
+  </channel>
+  <channel id="NDTV-Good-Times.in">
+   <display-name>NDTV Good Times</display-name>
+   <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/goodtimes-in.png"/>
+  </channel>
+ <channel id="NDTV 24x7.in">
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/ndtv-24x7-in.png" />
+    <display-name>NDTV 24x7</display-name>
+  </channel>
+ <channel id="History TV18 HD.in">
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/history-tv18-in.png" />
+    <display-name>History TV18</display-name>
+  </channel>
+  <channel id="Republic-Bharat.in">
+   <display-name>Republic Bharat</display-name>
+   <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/republic-bharat-tv-in.png"/>
+  </channel>
+  <channel id="CNBC TV18.in">
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/cnbc-tv18-in.png" />
+    <display-name>CNBC TV18</display-name>
+  </channel>
+ <channel id="CNBC TV18 Prime HD.in">
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/cnbc-tv18-prime-hd-in.png" />
+    <display-name>CNBC TV18 Prime</display-name>
+  </channel>
+  <channel id="TV9 Bharatvarsh.in">
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/tv9-bharatvarsh-in.png" />
+    <display-name>TV9 Bharatvarsh</display-name>
+  </channel>
   <channel id="andpictures HD.in">
     <display-name>and pictures</display-name>
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gWbWHfFZ.png"/>
+  </channel>
+  <channel id="REPUBLIC TV.in">
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/republic-tv-in.png" />
+    <display-name>REPUBLIC TV</display-name>
   </channel>
   <channel id="andtv HD.in">
     <display-name>and TV</display-name>
@@ -131,11 +203,11 @@
   </channel>
   <channel id="Star Gold Romance.in">
     <display-name>Star Gold Romance</display-name>
-    <icon src="https://github.com/mygtvact/autogenmerge/blob/main/logos/Star_Gold_Romance.svg"/>
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/USd2c3cM.png" />
   </channel>
   <channel id="Star Gold Thrills.in">
     <display-name>Star Gold Thrills</display-name>
-    <icon src="https://github.com/mygtvact/autogenmerge/blob/main/logos/Star_Gold_Thrills.svg"/>
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/OWglDdCC.png" />
   </channel>
   <channel id="STAR Plus HD.in">
     <display-name>Star Plus</display-name>
@@ -147,15 +219,15 @@
   </channel>
   <channel id="Utsav Gold HD.uk">
     <display-name>Utsav Gold UK</display-name>
-    <icon src="https://github.com/mygtvact/autogenmerge/blob/main/logos/Utsav_Gold_logo.svg"/>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/Utsav_Gold_logo.png"/>
   </channel>
   <channel id="Zee Anmol Cinema.in">
     <display-name></display-name>
-    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-anmol-cinema-in.png"/>
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BOhHUZjx.png" />
   </channel>
   <channel id="Zee Anmol.in">
     <display-name>Zee Anmol</display-name>
-    <icon src="https://images.open-epg.com/30075.png"/>
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/oEPKfHOX.png" />
   </channel>
   <channel id="Zee Cinema HD.in">
     <display-name>Zee Cinema</display-name>
@@ -173,9 +245,21 @@
     <display-name>Zee TV UK</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-tv-in.png"/>
   </channel>
+ <channel id="Aaj Tak HD.in">
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/aaj-tak-in.png" />
+    <display-name>Aaj Tak</display-name>
+  </channel>
+ <channel id="Food Food.in">
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/food-food-in.png" />
+    <display-name>Food Food.in</display-name>
+  </channel>
   <channel id="Zee TV.us">
     <display-name>Zee TV USA</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-tv-in.png"/>
+  </channel>
+ <channel id="Zee Bharat.in">
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-bharat-in.png" />
+    <display-name>Zee Bharat</display-name>
   </channel>
   <channel id="Zing.in">
     <display-name>Zing</display-name>
@@ -185,5 +269,6 @@
   </programme>
 
 </tv>
+
 
 
