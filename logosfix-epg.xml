@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv>
  <channel id="Zee Business.in">
-    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-business-in.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gO83ivZf.png" />
     <display-name>Zee Business</display-name>
   </channel>
   <channel id="ATN - Set Max.ca">
     <display-name>Set Max Canada</display-name>
-    <icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-max-in.png"/>
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UBYYWK17.png"/>
   </channel>
   <channel id="andFlix HD.in">
-    <icon src="https://static.wikia.nocookie.net/logopedia/images/3/30/%26flix_%282025%29.svg" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jcYmyEPo.png" />
     <display-name>andFlix HD</display-name>
   </channel>
   <channel id="B4U Movies North America.ca">
     <display-name>B4U Movies Canada</display-name>
-    <icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/india/b4u-movies-in.png"/>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/b4u-movies-in.png"/>
   </channel>
   <channel id="SETAsia.ca">
     <display-name>Sony TV Canada</display-name>
-    <icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-entertainment-television-in.png"/>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-entertainment-television-in.png"/>
   </channel>
   <channel id="Zee Bollywood.ca">
     <display-name>Zee Bollywood Canada</display-name>
@@ -42,7 +42,7 @@
   </channel>
   <channel id="SONY MAX HD.uk">
     <display-name>Sony Max UK</display-name>
-    <icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-max-in.png"/>
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UBYYWK17.png"/>
   </channel>
   <channel id="SONY SAB.uk">
     <display-name>Sony Sab</display-name>
@@ -185,3 +185,4 @@
   </programme>
 
 </tv>
+
