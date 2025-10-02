@@ -8,6 +8,10 @@
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/tvRtvi1Y.png" />
     <display-name>Zee News.in</display-name>
   </channel>
+  <channel id="ABP News.in">
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/abp-news-in.png" />
+    <display-name>ABP News.in</display-name>
+  </channel>
   <channel id="ATN - Set Max.ca">
     <display-name>Sony Max Canada</display-name>
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UBYYWK17.png"/>
@@ -89,6 +93,30 @@
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/ndtv-india-in.png" />
     <display-name>NDTV India</display-name>
   </channel>
+ <channel id="DD News HD.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QYyzgnaZ.png" />
+    <display-name>DD News</display-name>
+  </channel>
+ <channel id="Sudarshan News.in">
+     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9EQOflmz.png" />
+    <display-name>Sudarshan News</display-name>
+  </channel>
+ <channel id="India News Haryana.in">
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Haryana.png" />
+    <display-name>India News Haryana</display-name>
+ </channel>
+ <channel id="Mirror now.in">
+  <display-name>Mirror Now</display-name>
+  <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/mirror-now-in.png" />
+ </channel>
+ <channel id="ET NOW.in">
+  <display-name>ET NOW</display-name>
+  <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/et-now-in.png" />
+ </channel>
+ <channel id="ET Now Swadesh.in">
+  <display-name>ET Now Swadesh</display-name>
+  <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/et-now-swadesh-in.png" />
+ </channel>
  <channel id="Zee Anmol Cinema.in">
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/oEPKfHOX.png" />
     <display-name>Zee Anmol Cinema</display-name>
@@ -269,6 +297,10 @@
     <display-name>Zee Classic</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-classic-in.png"/>
   </channel>
+  <channel id="CNBC Awaaz.in">
+    <display-name>CNBC Awaaz</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/cnbc-awaaz-in.png"/>
+  </channel>
   <channel id="Zee TV HD.in">
     <display-name>Zee TV</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-tv-in.png"/>
@@ -301,6 +333,7 @@
   </programme>
 
 </tv>
+
 
 
 
