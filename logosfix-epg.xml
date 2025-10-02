@@ -32,6 +32,10 @@
     <display-name>Zee Bollywood Canada</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-bollywood-in.png"/>
   </channel>
+ <channel id="Zee Bollywood.in">
+    <display-name>Zee Bollywood</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-bollywood-in.png"/>
+  </channel>
   <channel id="Zee Cinema.ca">
     <display-name>Zee Cinema Canada</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-cinema-in.png"/>
@@ -53,12 +57,20 @@
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-max-in.png"/>
   </channel>
   <channel id="SONY SAB.uk">
+    <display-name>Sony Sab UK</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-sab-in.png"/>
+  </channel>
+ <channel id="SONY SAB HD.in">
     <display-name>Sony Sab</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-sab-in.png"/>
+  </channel>
+ <channel id="SAB TV (SONY).ca">
+    <display-name>Sony Sab Canada</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-sab-in.png"/>
   </channel>
   <channel id="DD Punjabi.in">
    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/71lLHli7.png" />
-   <icon src="https://static.wikia.nocookie.net/logopedia/images/3/3b/Ddpunjabi.png"/>
+   <display-name>DD Punjabi</display-name>
   </channel>
   <channel id="News18 Punjab.in"><display-name>News18 Punjab</display-name><icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/news-18-punjab-haryana-in.png"/></channel>
   <channel id="PTC Punjabi Gold.in">
@@ -145,6 +157,14 @@
     <display-name>B4U Movies</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/b4u-movies-in.png"/>
   </channel>
+ <channel id="B4U Movies.uk">
+    <display-name>B4U Movies UK</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/b4u-movies-in.png"/>
+  </channel>
+ <channel id="B4U Movies.us">
+    <display-name>B4U Movies USA</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/b4u-movies-in.png"/>
+  </channel>
   <channel id="Colors Cineplex.uk">
     <display-name>Colors Cineplex UK</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/colors-cineplex-in.png"/>
@@ -189,6 +209,10 @@
     <display-name>Sony Wah</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-wah-in.png"/>
   </channel>
+ <channel id="Sony Pal.in">
+    <display-name>Sony Pal</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-pal-in.png"/>
+  </channel>
   <channel id="Star Bharat HD.in">
     <display-name>Star Bharat</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/star-bharat-in.png"/>
@@ -200,6 +224,10 @@
   <channel id="Star GOLD HD.in">
     <display-name>Star Gold</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/star-gold-in.png"/>
+  </channel>
+ <channel id="Star Gold Select HD.in">
+    <display-name>Star Gold Select</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/star-gold-select-in.png"/>
   </channel>
   <channel id="Star Gold Romance.in">
     <display-name>Star Gold Romance</display-name>
@@ -222,7 +250,7 @@
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/Utsav_Gold_logo.png"/>
   </channel>
   <channel id="Zee Anmol Cinema.in">
-    <display-name></display-name>
+    <display-name>Zee Anmol Cinema</display-name>
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BOhHUZjx.png" />
   </channel>
   <channel id="Zee Anmol.in">
@@ -231,6 +259,10 @@
   </channel>
   <channel id="Zee Cinema HD.in">
     <display-name>Zee Cinema</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-cinema-in.png"/>
+  </channel>
+ <channel id="Zee Cinema HD.uk">
+    <display-name>Zee Cinema UK</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-cinema-in.png"/>
   </channel>
   <channel id="Zee Classic.in">
@@ -269,6 +301,7 @@
   </programme>
 
 </tv>
+
 
 
 
