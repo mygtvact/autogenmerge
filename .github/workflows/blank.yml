@@ -46,15 +46,15 @@ jobs:
 
       - name: compress
         run: |          
-          tar -czf logofixed.tar.gz merged-openepg.xml 
+          gzip -k merged-openepg.xml 
 
       - name: Upload to release
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           release_name: test
-          file: logofixed.tar.gz
-          asset_name: logofixed.tar.gz
+          file: merged-openepg.xml.gz
+          asset_name: logofixed.xml.gz
           tag: test
           overwrite: true
           body: "test release"

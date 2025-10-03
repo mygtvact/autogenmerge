@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv>
  <channel id="Zee Business.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gO83ivZf.png" />
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-business-in.png" />
     <display-name>Zee Business</display-name>
   </channel>
  <channel id="Zee News.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/tvRtvi1Y.png" />
-    <display-name>Zee News.in</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-news-in.png" />
+    <display-name>Zee News</display-name>
   </channel>
   <channel id="ABP News.in">
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/abp-news-in.png" />
-    <display-name>ABP News.in</display-name>
+    <display-name>ABP News</display-name>
   </channel>
   <channel id="ATN - Set Max.ca">
     <display-name>Sony Max Canada</display-name>
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UBYYWK17.png"/>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-max-in.png"/>
   </channel>
  <channel id="andPrive HD.in">
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/and-prive.png" />
@@ -126,7 +126,7 @@
   <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/et-now-swadesh-in.png" />
  </channel>
  <channel id="Zee Anmol Cinema.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/oEPKfHOX.png" />
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-anmol-cinema-in.png" />
     <display-name>Zee Anmol Cinema</display-name>
   </channel>
   <channel id="PTC Punjabi.in">
@@ -317,10 +317,6 @@
     <display-name>Utsav Gold UK</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/Utsav_Gold_logo.png"/>
   </channel>
-  <channel id="Zee Anmol Cinema.in">
-    <display-name>Zee Anmol Cinema</display-name>
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BOhHUZjx.png" />
-  </channel>
   <channel id="Zee Anmol.in">
     <display-name>Zee Anmol</display-name>
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/oEPKfHOX.png" />
@@ -355,7 +351,11 @@
   </channel>
  <channel id="Food Food.in">
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/food-food-in.png" />
-    <display-name>Food Food.in</display-name>
+    <display-name>Food Food</display-name>
+  </channel>
+ <channel id="ATN - Food Food.ca">
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/food-food-in.png" />
+    <display-name>Food Food Canada</display-name>
   </channel>
   <channel id="Zee TV.us">
     <display-name>Zee TV USA</display-name>
@@ -385,6 +385,8 @@
   </programme>
 
 </tv>
+
+
 
 
 
