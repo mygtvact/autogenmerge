@@ -81,6 +81,14 @@
    <display-name>PTC Punjabi Gold</display-name>
    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/eomzdxpW.png" />
   </channel>
+  <channel id="PTC Chak De.in">
+   <display-name>PTC Chak De</display-name>
+   <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/hvfGoEbe.png" />
+  </channel>
+  <channel id="PTC Music.in">
+   <display-name>PTC Music</display-name>
+   http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png
+  </channel>
   <channel id="CNN News18..in">
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/cnn-news-18-in.png" />
     <display-name>CNN News18</display-name>
@@ -123,6 +131,10 @@
   </channel>
   <channel id="PTC Punjabi.in">
    <display-name>PTC Punjabi</display-name>
+   <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yXZiQpMO.png" />
+  </channel>
+  <channel id="PTC Punjabi.ca">
+   <display-name>PTC Punjabi Canada</display-name>
    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yXZiQpMO.png" />
   </channel>
   <channel id="Zee Delhi NCR Haryana.in">
@@ -192,6 +204,34 @@
  <channel id="B4U Movies.us">
     <display-name>B4U Movies USA</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/b4u-movies-in.png"/>
+  </channel>
+  <channel id="B4U Music.in">
+    <display-name>B4U Music</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/b4u-music-in.png"/>
+  </channel>
+  <channel id="B4U Music.us">
+    <display-name>B4U Music USA</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/b4u-music-in.png"/>
+  </channel>
+  <channel id="9XM.in">
+    <display-name>9X Music</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/9xm-in.png"/>
+  </channel>
+  <channel id="Mastiii.in">
+    <display-name>Mastii</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/mastiii-in.png"/>
+  </channel>
+  <channel id="Showbox.in">
+    <display-name>Showbox</display-name>
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Ja3iR7EG.png" />
+  </channel>
+  <channel id="Music India.in">
+    <display-name>Muaic India</display-name>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" />
+  </channel>
+  <channel id="MTV HD.in">
+    <display-name>MTV</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/mtv-in.png"/>
   </channel>
   <channel id="Colors Cineplex.uk">
     <display-name>Colors Cineplex UK</display-name>
@@ -327,7 +367,19 @@
   </channel>
   <channel id="Zing.in">
     <display-name>Zing</display-name>
-    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zing-in.png"/>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/Zing.png"/>
+  </channel>
+  <channel id="Zoom.in">
+    <display-name>Zoom</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zoom-in.png"/>
+  </channel>
+  <channel id="MH1.in">
+    <display-name>MH1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/mh-one-in.png"/>
+  </channel>
+  <channel id="Haryana Beats.in">
+    <display-name>Haryana Beats</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/haryana-beats-in.png"/>
   </channel>
   <programme start="20250930150000 +0000" stop="20250930153000 +0000" channel="dummy_entry">
   </programme>
