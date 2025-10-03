@@ -37,12 +37,15 @@ jobs:
         run: |
           curl -O -L https://www.open-epg.com/generate/udmVWa6NDz.xml
       
-      - name: Run a one-line script
+      - name: install xmltv
         run: sudo apt install xmltv
 
-      - name: Run a one-line script
+      - name: merge epg
         run: |          
           tv_merge -i udmVWa6NDz.xml -m logosfix-epg.xml -o merged-openepg.xml
+
+      - name: compress
+        run: |          
           tar -czf logofixed.tar.gz merged-openepg.xml 
 
       - name: Upload to release
