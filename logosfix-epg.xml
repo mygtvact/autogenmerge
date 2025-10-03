@@ -6,11 +6,11 @@
   </channel>
  <channel id="Zee News.in">
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-news-in.png" />
-    <display-name>Zee News.in</display-name>
+    <display-name>Zee News</display-name>
   </channel>
   <channel id="ABP News.in">
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/abp-news-in.png" />
-    <display-name>ABP News.in</display-name>
+    <display-name>ABP News</display-name>
   </channel>
   <channel id="ATN - Set Max.ca">
     <display-name>Sony Max Canada</display-name>
@@ -311,7 +311,11 @@
   </channel>
  <channel id="Food Food.in">
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/food-food-in.png" />
-    <display-name>Food Food.in</display-name>
+    <display-name>Food Food</display-name>
+  </channel>
+ <channel id="ATN - Food Food.ca">
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/food-food-in.png" />
+    <display-name>Food Food Canada</display-name>
   </channel>
   <channel id="Zee TV.us">
     <display-name>Zee TV USA</display-name>
@@ -329,6 +333,7 @@
   </programme>
 
 </tv>
+
 
 
 
