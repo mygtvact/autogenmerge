@@ -53,8 +53,8 @@ jobs:
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           release_name: test
-          file: logofixed..tar.gz
-          asset_name: logofixed..tar.gz
+          file: logofixed.tar.gz
+          asset_name: logofixed.tar.gz
           tag: test
           overwrite: true
           body: "test release"
