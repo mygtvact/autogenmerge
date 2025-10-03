@@ -43,14 +43,15 @@ jobs:
       - name: Run a one-line script
         run: |          
           tv_merge -i udmVWa6NDz.xml -m logosfix-epg.xml -o merged-openepg.xml
+          tar -czf logofixed.tar.gz merged-openepg.xml 
 
       - name: Upload to release
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           release_name: test
-          file: merged-openepg.xml
-          asset_name: logofixed.xml
+          file: logofixed..tar.gz
+          asset_name: logofixed..tar.gz
           tag: test
           overwrite: true
           body: "test release"
