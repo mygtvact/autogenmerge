@@ -33,7 +33,7 @@ jobs:
        
       - name: download epg xml
         run: |
-          FULL_URL=$(echo "${{ format('https://www.open-epg.com/generate/{0}', secrets.EPG_FILENAME) }}")
+          FULL_URL=$(echo "${{ format('https://www.open-epg.com/generate/{0}', secrets.EPG_FILE_NAME) }}")
           echo "Full URL: $FULL_URL"
           curl -L -o downloaded_epg.xml.gz "$FULL_URL"
           gzip -d downloaded_epg.xml.gz
