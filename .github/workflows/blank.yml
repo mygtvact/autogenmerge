@@ -28,7 +28,7 @@ jobs:
       # Runs a single command using the runners shell
       - uses: awalsh128/cache-apt-pkgs-action@latest
         with:
-          packages: xmktools
+          packages: xmltv
           version: 1.0
        
       - name: download epg xml
