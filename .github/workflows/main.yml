@@ -40,7 +40,7 @@ jobs:
 
       - name: merge epg
         run: |          
-          tv_merge -i downloaded_epg.xml.gz -m logosfix-epg.xml -o merged-openepg.xml
+          tv_merge -i downloaded_epg.xml -m logosfix-epg.xml -o merged-openepg.xml
 
       - name: compress
         run: |          
