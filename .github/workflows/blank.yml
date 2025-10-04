@@ -33,7 +33,8 @@ jobs:
        
       - name: download epg xml
         run: |
-          curl -O -L https://www.open-epg.com/generate/udmVWa6NDz.xml
+          curl -O -L https://www.open-epg.com/generate/udmVWa6NDz.xml.gz
+          gzip -d udmVWa6NDz.xml.gz
 
       - name: merge epg
         run: |          
@@ -49,7 +50,7 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           release_name: test
           file: merged-openepg.xml.gz
-          asset_name: logofixed.xml.gz
+          asset_name: merged-openepg.xml.gz
           tag: test
           overwrite: true
           body: "test release"
