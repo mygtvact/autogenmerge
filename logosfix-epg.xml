@@ -113,7 +113,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Haryana.png" />
     <display-name>India News Haryana</display-name>
  </channel>
- <channel id="Mirror now.in">
+ <channel id="Mirror Now.in">
   <display-name>Mirror Now</display-name>
   <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/mirror-now-in.png" />
  </channel>
@@ -429,6 +429,7 @@
   </programme>
 
 </tv>
+
 
 
 
