@@ -233,6 +233,50 @@
     <display-name>MTV</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/mtv-in.png"/>
   </channel>
+  <channel id="EPIC.in">
+    <display-name>EPIC</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/epic-in.png"/>
+  </channel>
+  <channel id="Travelxp HD.in">
+    <display-name>Travelxp</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/travelxp-hd-in.png"/>
+  </channel>
+  <channel id="Zee Zest HD.in">
+    <display-name>Zee Zest</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-zest-in.png"/>
+  </channel>
+  <channel id="Nat Geo Wild.in">
+    <display-name>Nat Geo Wild</display-name>
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/B7j5DOeg.png" />
+  </channel>
+  <channel id="National Geographic HD.in">
+    <display-name>National Geographic</display-name>
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TQOkEcdR.png" />
+  </channel>
+  <channel id="Investigation Discovery.in">
+    <display-name>Investigation Discovery</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/Investigation_Discovery.png"/>
+  </channel>
+  <channel id="Animal Planet.in">
+    <display-name>Animal Planet</display-name>
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/iXTcogWq.png"/>
+  </channel>
+  <channel id="Discovery Channel.in">
+    <display-name>Discovery Channel</display-name>
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9d2nOWzP.png" />
+  </channel>
+  <channel id="Discovery Science.in">
+    <display-name>Discovery Science</display-name>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" />
+  </channel>
+  <channel id="Discovery Turbo.in">
+    <display-name>Discovery Turbo</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/Discovery_Turbo.png" />
+  </channel>
+  <channel id="SONY BBC Earth.in">
+    <display-name>BBC Earth</display-name>
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BkRltyBJ.png" />
+  </channel>
   <channel id="Colors Cineplex.uk">
     <display-name>Colors Cineplex UK</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/colors-cineplex-in.png"/>
