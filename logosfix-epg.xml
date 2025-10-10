@@ -8,6 +8,10 @@
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-news-in.png" />
     <display-name>Zee News</display-name>
   </channel>
+ <channel id="India TV.in">
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/india-tv-in.png" />
+    <display-name>India TV</display-name>
+  </channel>
   <channel id="ABP News.in">
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/abp-news-in.png" />
     <display-name>ABP News</display-name>
@@ -192,6 +196,34 @@
   <channel id="andXplor HD.in">
     <display-name>and Xplor</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/and-xplor.png"/>
+  </channel>
+ <channel id="SONY PIX HD.in">
+    <display-name>Sony Pix</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-pix-in.png"/>
+  </channel>
+ <channel id="STAR Movies HD.in">
+    <display-name>Sony Movies</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/star-movies-in.png"/>
+  </channel>
+ <channel id="STAR Movies Select HD.in">
+    <display-name>Sony Movies Select</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/star-movies-select-hd-in.png"/>
+  </channel>
+ <channel id="Movies Now HD.in">
+    <display-name>Movies Now</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/movies-now-in.png"/>
+  </channel>
+ <channel id="MNX HD.in">
+    <display-name>MNX</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/mnx-in.png"/>
+  </channel>
+ <channel id="MN+ HD.in">
+    <display-name>MN+</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/mn-plus-hd-in.png"/>
+  </channel>
+ <channel id="Romedy Now.in">
+    <display-name>Romedy Now</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/romedy-now-in.png"/>
   </channel>
   <channel id="B4U Movies.in">
     <display-name>B4U Movies</display-name>
@@ -429,6 +461,7 @@
   </programme>
 
 </tv>
+
 
 
 
