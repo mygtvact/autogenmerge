@@ -12,6 +12,10 @@
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/india-tv-in.png" />
     <display-name>India TV</display-name>
   </channel>
+ <channel id="Shemaroo TV.in">
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/shemaroo-in.png" />
+    <display-name>Shemaroo TV</display-name>
+  </channel>
   <channel id="ABP News.in">
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/abp-news-in.png" />
     <display-name>ABP News</display-name>
@@ -467,6 +471,7 @@
   </programme>
 
 </tv>
+
 
 
 
