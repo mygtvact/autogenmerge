@@ -403,6 +403,14 @@
     <display-name>Utsav Gold UK</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/utsav-gold-uk.png"/>
   </channel>
+ <channel id="Utsav Plus HD.uk">
+    <display-name>Utsav Plus UK</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/utsav-plus-uk.png"/>
+  </channel>
+ <channel id="Utsav Bharat.uk">
+    <display-name>Utsav Bharat UK</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/utsav-bharat-uk.png"/>
+  </channel>
   <channel id="Zee Anmol.in">
     <display-name>Zee Anmol</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/zee-anmol-in.png"/>
@@ -471,6 +479,7 @@
   </programme>
 
 </tv>
+
 
 
 
