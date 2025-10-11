@@ -199,6 +199,10 @@
     <display-name>and TV</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/and-tv-in.png" />
   </channel>
+  <channel id="TLC HD.in">
+    <display-name>TLC</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/tlc-in.png" />
+  </channel>
   <channel id="andXplor HD.in">
     <display-name>and Xplor</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/and-xplor-in.png"/>
@@ -208,11 +212,19 @@
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sony-pix-in.png"/>
   </channel>
  <channel id="STAR Movies HD.in">
-    <display-name>Sony Movies</display-name>
+    <display-name>Star Movies</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/star-movies-in.png"/>
   </channel>
+  <channel id="Colors Infinity HD.in">
+    <display-name>Colors Infinity</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/colors-infinity-in.png"/>
+  </channel>
+  <channel id="Zee Cafe HD.in">
+    <display-name>Zee Cafe</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/zee-cafe-in.png"/>
+  </channel>
  <channel id="STAR Movies Select HD.in">
-    <display-name>Sony Movies Select</display-name>
+    <display-name>Star Movies Select</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/star-movies-select-hd-in.png"/>
   </channel>
  <channel id="Movies Now HD.in">
@@ -471,6 +483,26 @@
     <display-name>MH1</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/mh-one-in.png"/>
   </channel>
+  <channel id="Dangal.in">
+    <display-name>Dangal</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/dangal-in.png"/>
+  </channel>
+  <channel id="NAZARA.in">
+    <display-name>Nazara</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/nazara-in.png"/>
+  </channel>
+  <channel id="Tata Play Theatre HD.in">
+    <display-name>Tata Play Theatre</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/tata-play-in.png"/>
+  </channel>
+  <channel id="Tata Play Zindagi.in">
+    <display-name>Tata Play Zindagi</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/tata-play-in.png"/>
+  </channel>
+  <channel id="Tata Play Punjab De Rang.in">
+    <display-name>Tata Play Punjab De Rang</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/tata-play-in.png"/>
+  </channel>
   <channel id="Haryana Beats.in">
     <display-name>Haryana Beats</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/haryana-beats-in.png"/>
@@ -483,6 +515,14 @@
     <display-name>Bollywood Movies Custom</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/movies1.png"/>
   </channel>
+  <channel id="Movies Custom.in">
+    <display-name>Movies Custom</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/movies1.png"/>
+  </channel>
+  <channel id="Cinema Custom.in">
+    <display-name>Cinema Custom</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/cinema1.png"/>
+  </channel>
   <programme start="20250930150000 +0000" stop="20250930153000 +0000" channel="Punjabi Movies Custom.in">
   <title>Movie</title>
     <sub-title></sub-title>
@@ -490,6 +530,18 @@
     <episode-num system="xmltv_ns"></episode-num>
   </programme>
   <programme start="20250930150000 +0000" stop="20250930153000 +0000" channel="Bollywood Movies Custom.in">
+  <title>Movie</title>
+    <sub-title></sub-title>
+    <desc></desc>
+    <episode-num system="xmltv_ns"></episode-num>
+  </programme>
+  <programme start="20250930150000 +0000" stop="20250930153000 +0000" channel="Movies Custom.in">
+  <title>Movie</title>
+    <sub-title></sub-title>
+    <desc></desc>
+    <episode-num system="xmltv_ns"></episode-num>
+  </programme>
+  <programme start="20250930150000 +0000" stop="20250930153000 +0000" channel="Cinema Custom.in">
   <title>Movie</title>
     <sub-title></sub-title>
     <desc></desc>
