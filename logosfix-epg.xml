@@ -475,7 +475,15 @@
     <display-name>Haryana Beats</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/haryana-beats-in.png"/>
   </channel>
-  <programme start="20250930150000 +0000" stop="20250930153000 +0000" channel="dummy_entry">
+  <channel id="Punjabi Movies Custom.in">
+    <display-name>Punjabi Movies Custom</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/punjabi-movies-in.png"/>
+  </channel>
+  <programme start="20250930150000 +0000" stop="20250930153000 +0000" channel="Punjabi Movies Custom.in">
+  <title>Movi</title>
+    <sub-title></sub-title>
+    <desc></desc>
+    <episode-num system="xmltv_ns"></episode-num>
   </programme>
 
 </tv>
