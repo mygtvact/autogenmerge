@@ -523,6 +523,10 @@
     <display-name>Cinema Custom</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/cinema1.png"/>
   </channel>
+ <channel id="Sahara One.in">
+    <display-name>Sahara One</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sahara-one-in.png"/>
+  </channel>
   <programme start="20250930150000 +0000" stop="20250930153000 +0000" channel="Punjabi Movies Custom.in">
   <title>Movie</title>
     <sub-title></sub-title>
@@ -547,8 +551,15 @@
     <desc></desc>
     <episode-num system="xmltv_ns"></episode-num>
   </programme>
+ <programme start="20250930150000 +0000" stop="20250930153000 +0000" channel="Sahara One.in">
+  <title>Filler</title>
+    <sub-title></sub-title>
+    <desc></desc>
+    <episode-num system="xmltv_ns"></episode-num>
+  </programme>
 
 </tv>
+
 
 
 
