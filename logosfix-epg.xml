@@ -115,6 +115,10 @@
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/dd-news-in.png" />
     <display-name>DD News</display-name>
   </channel>
+ <channel id="DD National HD.in">
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/dd-national-in.png" />
+    <display-name>DD News</display-name>
+  </channel>
  <channel id="Sudarshan News.in">
      <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sudarshan-news-in.png" />
     <display-name>Sudarshan News</display-name>
@@ -559,6 +563,7 @@
   </programme>
 
 </tv>
+
 
 
 
