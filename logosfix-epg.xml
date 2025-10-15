@@ -359,6 +359,11 @@
     <display-name>Colors Canada</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/colors-in.png"/>
   </channel>
+ <channel id="Colors Rishtey.uk">
+    <display-name>Colors Rishtey UK</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/colors-rishtey-in.png"/>
+  </channel>
+
   <channel id="Goldmines.in">
     <display-name>Goldmines</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/goldmines-in.png"/>
@@ -575,6 +580,7 @@
   </programme>
 
 </tv>
+
 
 
 
