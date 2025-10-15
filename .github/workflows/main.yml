@@ -9,7 +9,7 @@ on:
   schedule:
     # Runs at 05:30 UTC every day
     # Note: Use UTC time for schedules
-    - cron: '0 11,23 * * *'
+    - cron: '0 1,13 * * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
