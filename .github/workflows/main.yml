@@ -57,5 +57,15 @@ jobs:
           overwrite: true
           body: "test release"
 
+      - name: Upload to Dropbox
+        uses: Lewuathe/dropbox-github-action@v1.0.3
+        with:
+          dropbox-app-key: ${{ secrets.DROPBOX_APP_KEY }}
+          dropbox-app-secret: ${{ secrets.DROPBOX_APP_SECRET }}
+          dropbox-refresh-token: ${{ secrets.DROPBOX_REFRESH_TOKEN }}
+          source-path: merged-openepg.xml.gz
+          target-path: merged-openepg.xml.gz
+          write-mode:  overwrite
+
         
       
