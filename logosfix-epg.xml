@@ -287,6 +287,10 @@
     <display-name>MTV</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/mtv-in.png"/>
   </channel>
+ <channel id="MTV India.ca">
+    <display-name>MTV Canada</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/mtv-in.png"/>
+  </channel>
   <channel id="EPIC.in">
     <display-name>EPIC</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/epic-in.png"/>
@@ -563,6 +567,7 @@
   </programme>
 
 </tv>
+
 
 
 
