@@ -475,6 +475,10 @@
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/food-food-in.png" />
     <display-name>Food Food Canada</display-name>
   </channel>
+ <channel id="ATN - Zoom (Hindi).ca">
+    <display-name>Zoom Canada</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/zoom-in.png"/>
+  </channel>
   <channel id="Zee TV.us">
     <display-name>Zee TV USA</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/zee-tv-in.png"/>
@@ -571,6 +575,7 @@
   </programme>
 
 </tv>
+
 
 
 
