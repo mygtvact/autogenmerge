@@ -163,7 +163,7 @@
    <display-name>Zee Punjabi</display-name>
    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/zee-punjabi-in.png"/>
   </channel>
-  <channel id="NDTV-Good-Times.in">
+  <channel id="GOOD TiMES.in">
    <display-name>NDTV Good Times</display-name>
    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/goodtimes-in.png"/>
   </channel>
@@ -175,7 +175,7 @@
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/history-tv18-in.png" />
     <display-name>History TV18</display-name>
   </channel>
-  <channel id="Republic-Bharat.in">
+  <channel id="Republic Bharat.in">
    <display-name>Republic Bharat</display-name>
    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/republic-bharat-tv-in.png"/>
   </channel>
@@ -583,6 +583,7 @@
   </programme>
 
 </tv>
+
 
 
 
