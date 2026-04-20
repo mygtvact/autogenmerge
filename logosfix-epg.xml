@@ -127,6 +127,14 @@
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/india-news-haryana-in.png" />
     <display-name>India News Haryana</display-name>
  </channel>
+ <channel id="IndiaNewsPunjab.in">
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/india-news-punjab-in.png" />
+    <display-name>India News Punjab</display-name>
+ </channel>
+ <channel id="IndiaNews.in">
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/india-news-in.png" />
+    <display-name>India News</display-name>
+ </channel>
  <channel id="MirrorNow.in">
   <display-name>Mirror Now</display-name>
   <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/mirror-now-in.png" />
@@ -146,6 +154,10 @@
   <channel id="PTCPunjabi.in">
    <display-name>PTC Punjabi</display-name>
    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/ptc-punjabi-in.png" />
+  </channel>
+ <channel id="PTCNews.in">
+   <display-name>PTC News</display-name>
+   <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/ptc-news-in.png" />
   </channel>
   <channel id="PTCPunjabi.ca">
    <display-name>PTC Punjabi Canada</display-name>
@@ -525,6 +537,18 @@
   </channel>
   <channel id="TataPlayPunjabDeRang.in">
     <display-name>Tata Play Punjab De Rang</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/tata-play-in.png"/>
+  </channel>
+ <channel id="TataPlayBollywoodPremiereHD.in">
+    <display-name>Tata Play Bollywood Premiere</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/tata-play-in.png"/>
+  </channel>
+ <channel id="TataPlayHollywoodLocal.in">
+    <display-name>Tata Play Hollywood Local</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/tata-play-in.png"/>
+  </channel>
+ <channel id="TataPlayClassicCinema.in">
+    <display-name>Tata Play Classic Cinema</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/tata-play-in.png"/>
   </channel>
   <channel id="HaryanaBeats.in">
