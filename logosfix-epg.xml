@@ -60,15 +60,15 @@
     <display-name>Sony TV USA</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sony-entertainment-television-in.png"/>
   </channel>
-  <channel id="SONY MAX 2.uk">
+  <channel id="SonyMax2.uk">
     <display-name>Sony Max 2 UK</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sony-max-2-in.png"/>
   </channel>
-  <channel id="SONY MAX HD.uk">
-    <display-name>Sony Max UK</display-name>
+  <channel id="SonyMax.uk">
+    <display-name>SonyMaxUK</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sony-max-in.png"/>
   </channel>
-  <channel id="SONY SAB.uk">
+  <channel id="SonySAB.uk">
     <display-name>Sony Sab UK</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sony-sab-in.png"/>
   </channel>
@@ -263,7 +263,7 @@
     <display-name>B4U Movies</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/b4u-movies-in.png"/>
   </channel>
- <channel id="B4U Movies.uk">
+ <channel id="B4UMovies.uk">
     <display-name>B4U Movies UK</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/b4u-movies-in.png"/>
   </channel>
@@ -347,7 +347,7 @@
     <display-name>BBC Earth</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sony-bbc-earth-in.png"/>
   </channel>
-  <channel id="Colors Cineplex.uk">
+  <channel id="ColorsCineplex.uk">
     <display-name>Colors Cineplex UK</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/colors-cineplex-in.png"/>
   </channel>
@@ -363,7 +363,7 @@
     <display-name>Colors</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/colors-in.png"/>
   </channel>
- <channel id="Colors HD.uk">
+ <channel id="Colors.uk">
     <display-name>Colors UK</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/colors-in.png"/>
   </channel>
@@ -371,7 +371,7 @@
     <display-name>Colors Canada</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/colors-in.png"/>
   </channel>
- <channel id="Colors Rishtey.uk">
+ <channel id="ColorsRishtey.uk">
     <display-name>Colors Rishtey UK</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/colors-rishtey-in.png"/>
   </channel>
@@ -387,7 +387,7 @@
     <display-name>Sony TV</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sony-entertainment-television-in.png"/>
   </channel>
-  <channel id="Sony TV HD.uk">
+  <channel id="SonyTV.uk">
     <display-name>Sony TV UK</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sony-entertainment-television-in.png"/>
   </channel>
@@ -443,15 +443,15 @@
     <display-name>Star Utsav</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/star-utsav-in.png"/>
   </channel>
-  <channel id="Utsav Gold HD.uk">
+  <channel id="UtsavGold.uk">
     <display-name>Utsav Gold UK</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/utsav-gold-uk.png"/>
   </channel>
- <channel id="Utsav Plus HD.uk">
+ <channel id="UtsavPlus.uk">
     <display-name>Utsav Plus UK</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/utsav-plus-uk.png"/>
   </channel>
- <channel id="Utsav Bharat.uk">
+ <channel id="UtsavBharat.uk">
     <display-name>Utsav Bharat UK</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/utsav-bharat-uk.png"/>
   </channel>
@@ -463,7 +463,7 @@
     <display-name>Zee Cinema</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/zee-cinema-in.png"/>
   </channel>
- <channel id="Zee Cinema HD.uk">
+ <channel id="ZeeCinema.uk">
     <display-name>Zee Cinema UK</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/zee-cinema-in.png"/>
   </channel>
@@ -479,7 +479,7 @@
     <display-name>Zee TV</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/zee-tv-in.png"/>
   </channel>
-  <channel id="Zee TV HD.uk">
+  <channel id="ZeeTV.uk">
     <display-name>Zee TV UK</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/zee-tv-in.png"/>
   </channel>
