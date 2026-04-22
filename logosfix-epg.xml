@@ -99,7 +99,7 @@
    <display-name>PTC Music</display-name>
    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/ptc-music-in.png"/>
   </channel>
-  <channel id="CNNNews18.in">
+  <channel id="CNNNews18..in">
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/cnn-news-18-in.png" />
     <display-name>CNN News18</display-name>
   </channel>
@@ -187,7 +187,7 @@
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/history-tv18-in.png" />
     <display-name>History TV18</display-name>
   </channel>
-  <channel id="RepublicBharat.in">
+  <channel id="REPUBLICBHARAT.in">
    <display-name>Republic Bharat</display-name>
    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/republic-bharat-tv-in.png"/>
   </channel>
@@ -203,7 +203,7 @@
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/tv9-bharatvarsh-in.png" />
     <display-name>TV9 Bharatvarsh</display-name>
   </channel>
-  <channel id="andpictures HD.in">
+  <channel id="andPicturesHD.in">
     <display-name>and pictures</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/and-pictures-in.png" />
   </channel>
@@ -355,7 +355,7 @@
     <display-name>Colors Cineplex Bollywood</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/colors-cineplex-bollywood-in.png"/>
   </channel>
-  <channel id="Colors Cineplex HD.in">
+  <channel id="ColorsCineplexHD.in">
     <display-name>Colors Cineplex</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/colors-cineplex-in.png"/>
   </channel>
@@ -487,7 +487,7 @@
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/aaj-tak-in.png" />
     <display-name>Aaj Tak</display-name>
   </channel>
- <channel id="Food Food.in">
+ <channel id="FoodFood.in">
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/food-food-in.png" />
     <display-name>Food Food</display-name>
   </channel>
