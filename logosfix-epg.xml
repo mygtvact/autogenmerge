@@ -159,7 +159,7 @@
    <display-name>PTC News</display-name>
    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/ptc-news-in.png" />
   </channel>
-  <channel id="PTCPunjabi.ca">
+  <channel id="PTC Punjabi.ca">
    <display-name>PTC Punjabi Canada</display-name>
    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/ptc-punjabi-in.png" />
   </channel>
