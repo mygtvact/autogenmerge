@@ -288,8 +288,8 @@
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/mastiii-in.png"/>
   </channel>
   <channel id="Showbox.in">
-    <display-name>Showbox</display-name>
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/showbox-in.png"/>
+    <display-name>Epic Music</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/epic-music-in.png"/>
   </channel>
   <channel id="MusicIndia.in">
     <display-name>Muaic India</display-name>
@@ -524,8 +524,8 @@
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/dangal-in.png"/>
   </channel>
   <channel id="NAZARA.in">
-    <display-name>Nazara</display-name>
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/nazara-in.png"/>
+    <display-name>Epic Bharat</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/epic-bharat-in.png"/>
   </channel>
   <channel id="TataPlayTheatreHD.in">
     <display-name>Tata Play Theatre</display-name>
