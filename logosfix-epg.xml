@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv>
- <channel id="ZeeBusiness.in">
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/zee-business-in.png" />
-    <display-name>Zee Business</display-name>
-  </channel>
- <channel id="ZeeNews.in">
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/zee-news-in.png" />
-    <display-name>Zee News</display-name>
-  </channel>
- <channel id="IndiaTV.in">
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/india-tv-in.png" />
-    <display-name>India TV</display-name>
-  </channel>
- <channel id="ShemarooTV.in">
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/shemaroo-in.png" />
-    <display-name>Shemaroo TV</display-name>
-  </channel>
   <channel id="ABPNews.in">
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/abp-news-in.png" />
     <display-name>ABP News</display-name>
@@ -44,10 +28,6 @@
     <display-name>Zee Bollywood Canada</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/zee-bollywood-in.png"/>
   </channel>
- <channel id="ZeeBollywood.in">
-    <display-name>Zee Bollywood</display-name>
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/zee-bollywood-in.png"/>
-  </channel>
   <channel id="Zee Cinema.ca">
     <display-name>Zee Cinema Canada</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/zee-cinema-in.png"/>
@@ -70,10 +50,6 @@
   </channel>
   <channel id="SonySAB.uk">
     <display-name>Sony Sab UK</display-name>
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sony-sab-in.png"/>
-  </channel>
- <channel id="SONYSABHD.in">
-    <display-name>Sony Sab</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sony-sab-in.png"/>
   </channel>
  <channel id="SAB TV (SONY).ca">
