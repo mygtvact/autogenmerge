@@ -52,24 +52,23 @@
     <display-name>Zee TV Canada</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/zee-tv-in.png"/>
   </channel>
-  <channel id="AndPriveHD.in">
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/and-prive-in.png" />
-    <display-name>and Prive</display-name>
+  
+  
+  <channel id="AasthaBhajan.in">
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/aastha-bhajan-in.png" />
+    <display-name>Aastha Bhajan</display-name>
   </channel>
   <channel id="AndFlixHD.in">
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/and-flix-in.png" />
     <display-name>and Flix HD</display-name>
   </channel>
-  
-  
-  
- 
-  
- 
-  
   <channel id="andPicturesHD.in">
     <display-name>and pictures</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/and-pictures-in.png" />
+  </channel>
+  <channel id="AndPriveHD.in">
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/and-prive-in.png" />
+    <display-name>and Prive</display-name>
   </channel>
   <channel id="andtvHD.in">
     <display-name>and TV</display-name>
@@ -82,6 +81,10 @@
   <channel id="AnimalPlanet.in">
     <display-name>Animal Planet</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/animal-planet-in.png"/>
+  </channel>
+  <channel id="CNBCAwaaz.in">
+    <display-name>CNBC Awaaz</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/cnbc-awaaz-in.png"/>
   </channel>
   <channel id="CNBCTV18.in">
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/cnbc-tv18-in.png" />
@@ -103,6 +106,10 @@
     <display-name>Dangal</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/dangal-in.png"/>
   </channel>
+  <channel id="DDBharati.in">
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/dd-bharati-in.png" />
+    <display-name>DD Bharati</display-name>
+  </channel>
   <channel id="DDNationalHD.in">
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/dd-national-in.png" />
     <display-name>DD National</display-name>
@@ -114,6 +121,14 @@
   <channel id="DiscoveryTurbo.in">
     <display-name>Discovery Turbo</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/discovery-turbo-in.png"/>
+  </channel>
+  <channel id="Disney.in">
+    <display-name>Disney Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/disney-channel-in.png"/>
+  </channel>
+  <channel id="DisneyJunior.in">
+    <display-name>Disney Junior</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/disney-junior-in.png"/>
   </channel>
   <channel id="EPIC.in">
     <display-name>EPIC</display-name>
@@ -131,6 +146,10 @@
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/india-news-punjab-in.png" />
     <display-name>India News Punjab</display-name>
  </channel>
+  <channel id="MHOneDilSe.in">
+    <display-name>MHOne DilSe</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/mhone-dilse-in.png"/>
+  </channel>
   <channel id="MN+HD.in">
     <display-name>MN+</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/mn-plus-hd-in.png"/>
@@ -147,10 +166,6 @@
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/ndtv-profit-in.png" />
     <display-name>NDTV Profit Prime</display-name>
   </channel>
- <channel id="SudarshanNews.in">
-     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sudarshan-news-in.png" />
-    <display-name>Sudarshan News</display-name>
-  </channel>
   <channel id="Showbox.in">
     <display-name>Epic Music</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/epic-music-in.png"/>
@@ -158,6 +173,10 @@
   <channel id="SonyWah.in">
     <display-name>Sony Wah</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sony-wah-in.png"/>
+  </channel>
+  <channel id="SudarshanNews.in">
+     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sudarshan-news-in.png" />
+    <display-name>Sudarshan News</display-name>
   </channel>
   <channel id="TataPlayTheatreHD.in">
     <display-name>Tata Play Theatre</display-name>
@@ -196,35 +215,7 @@
     <display-name>Zee Anmol Cinema</display-name>
   </channel>
 
-  
- <channel id="B4UMovies.uk">
-    <display-name>B4U Movies UK</display-name>
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/b4u-movies-in.png"/>
-  </channel>
- <channel id="Colors.uk">
-    <display-name>Colors UK</display-name>
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/colors-in.png"/>
-  </channel>
-  <channel id="ColorsRishtey.uk">
-    <display-name>Colors Rishtey UK</display-name>
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/colors-rishtey-in.png"/>
-  </channel>
-  <channel id="SonyMax.uk">
-    <display-name>SonyMaxUK</display-name>
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sony-max-in.png"/>
-  </channel>
-  <channel id="SonyMax2.uk">
-    <display-name>Sony Max 2 UK</display-name>
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sony-max-2-in.png"/>
-  </channel>
-  <channel id="SonySAB.uk">
-    <display-name>Sony Sab UK</display-name>
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sony-sab-in.png"/>
-  </channel>
-  <channel id="SonyTV.uk">
-    <display-name>Sony TV UK</display-name>
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sony-entertainment-television-in.png"/>
-  </channel>
+
  <channel id="UtsavBharat.uk">
     <display-name>Utsav Bharat UK</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/utsav-bharat-uk.png"/>
@@ -246,17 +237,9 @@
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/zee-tv-in.png"/>
   </channel>
   
-  <channel id="B4U Movies.us">
-    <display-name>B4U Movies USA</display-name>
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/b4u-movies-in.png"/>
-  </channel>
-  <channel id="B4U Music.us">
-    <display-name>B4U Music USA</display-name>
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/b4u-music-in.png"/>
-  </channel>
-  <channel id="SAB USA.us">
-    <display-name>SAB USA</display-name>
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sony-sab-in.png"/>
+  <channel id="Sahara One.us">
+    <display-name>Sahara One US</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sahara-one-in.png"/>
   </channel>
   <channel id="Sony (3704).us">
     <display-name>Sony TV USA</display-name>
