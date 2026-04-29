@@ -186,10 +186,6 @@
     <display-name>Tata Play Comedy</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/tata-play-in.png"/>
   </channel>
-  <channel id="TataPlayZindagi.in">
-    <display-name>Tata Play Zindagi</display-name>
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/tata-play-in.png"/>
-  </channel>
   <channel id="TataPlayPunjabDeRang.in">
     <display-name>Tata Play Punjab De Rang</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/tata-play-in.png"/>
