@@ -62,10 +62,6 @@
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/and-flix-in.png" />
     <display-name>and Flix HD</display-name>
   </channel>
-  <channel id="andPicturesHD.in">
-    <display-name>and pictures</display-name>
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/and-pictures-in.png" />
-  </channel>
   <channel id="AndPriveHD.in">
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/and-prive-in.png" />
     <display-name>and Prive</display-name>
@@ -73,10 +69,6 @@
   <channel id="andtvHD.in">
     <display-name>and TV</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/and-tv-in.png" />
-  </channel>
-  <channel id="AndXplorHD.in">
-    <display-name>and Xplor</display-name>
-    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/and-xplor-in.png"/>
   </channel>
   <channel id="AnimalPlanet.in">
     <display-name>Animal Planet</display-name>
@@ -133,10 +125,6 @@
   <channel id="EPIC.in">
     <display-name>EPIC</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/epic-tv-in.png"/>
-  </channel>
-  <channel id="GOODTiMES.in">
-   <display-name>NDTV Good Times</display-name>
-   <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/goodtimes-in.png"/>
   </channel>
   <channel id="IndiaNewsHaryana.in">
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/india-news-haryana-in.png" />
