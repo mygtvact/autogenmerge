@@ -94,6 +94,10 @@
     <display-name>Colors Cineplex Bollywood</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/colors-cineplex-bollywood-in.png"/>
   </channel>
+  <channel id="ColorsHD.in">
+    <display-name>Colors</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/colors-in.png"/>
+  </channel>
   <channel id="Dangal.in">
     <display-name>Dangal</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/dangal-in.png"/>
@@ -220,7 +224,11 @@
     <display-name>Zee TV UK</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/zee-tv-in.png"/>
   </channel>
-  
+
+  <channel id="Aapka Colors.us">
+    <display-name>Colors USA</display-name>
+    <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/colors-in.png"/>
+  </channel>
   <channel id="Sahara One.us">
     <display-name>Sahara One US</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/sahara-one-in.png"/>
