@@ -66,7 +66,7 @@
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/and-prive-in.png" />
     <display-name>and Prive</display-name>
   </channel>
-  <channel id="andtvHD.in">
+  <channel id="andTV.in">
     <display-name>and TV</display-name>
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/and-tv-in.png" />
   </channel>
@@ -106,7 +106,7 @@
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/dd-bharati-in.png" />
     <display-name>DD Bharati</display-name>
   </channel>
-  <channel id="DDNationalHD.in">
+  <channel id="DDNational.in">
     <icon src="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/dd-national-in.png" />
     <display-name>DD National</display-name>
   </channel>
